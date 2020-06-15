@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\clockApp\bin\Debug\clockApp.exe.config
+C:\SRC\trainingwonfrom\clockApp\bin\Debug\clockApp.exe
+C:\SRC\trainingwonfrom\clockApp\bin\Debug\clockApp.pdb
+C:\SRC\trainingwonfrom\clockApp\obj\Debug\clockApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\clockApp\obj\Debug\clockApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\clockApp\obj\Debug\clockApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\clockApp\obj\Debug\clockApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\clockApp\obj\Debug\clockApp.exe
+C:\SRC\trainingwonfrom\clockApp\obj\Debug\clockApp.pdb
+C:\SRC\trainingwonfrom\clockApp\obj\Debug\clockApp.Form1.resources

@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\SRC\trainingwonfrom\WinFormApp\bin\Debug\WinFormApp.exe
+C:\SRC\trainingwonfrom\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\SRC\trainingwonfrom\WinFormApp\obj\Debug\WinFormApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\WinFormApp\obj\Debug\WinFormApp.MainForm.resources
+C:\SRC\trainingwonfrom\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\WinFormApp\obj\Debug\WinFormApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\WinFormApp\obj\Debug\WinFormApp.exe
+C:\SRC\trainingwonfrom\WinFormApp\obj\Debug\WinFormApp.pdb

@@ -1,0 +1,7 @@
+C:\SRC\trainingwonfrom\ExceptionTestApp\ExceptionTestApp\bin\Debug\ExceptionTestApp.exe.config
+C:\SRC\trainingwonfrom\ExceptionTestApp\ExceptionTestApp\bin\Debug\ExceptionTestApp.exe
+C:\SRC\trainingwonfrom\ExceptionTestApp\ExceptionTestApp\bin\Debug\ExceptionTestApp.pdb
+C:\SRC\trainingwonfrom\ExceptionTestApp\ExceptionTestApp\obj\Debug\ExceptionTestApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\ExceptionTestApp\ExceptionTestApp\obj\Debug\ExceptionTestApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\ExceptionTestApp\ExceptionTestApp\obj\Debug\ExceptionTestApp.exe
+C:\SRC\trainingwonfrom\ExceptionTestApp\ExceptionTestApp\obj\Debug\ExceptionTestApp.pdb

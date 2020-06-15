@@ -1,0 +1,7 @@
+C:\SRC\trainingwonfrom\sss\sss\bin\Debug\sss.exe.config
+C:\SRC\trainingwonfrom\sss\sss\bin\Debug\sss.exe
+C:\SRC\trainingwonfrom\sss\sss\bin\Debug\sss.pdb
+C:\SRC\trainingwonfrom\sss\sss\obj\Debug\sss.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\sss\sss\obj\Debug\sss.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\sss\sss\obj\Debug\sss.exe
+C:\SRC\trainingwonfrom\sss\sss\obj\Debug\sss.pdb
