@@ -43,6 +43,7 @@
             this.label1.Size = new System.Drawing.Size(358, 93);
             this.label1.TabIndex = 0;
             this.label1.Text = "12:50:00";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // timer1
             // 
@@ -62,6 +63,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "clock";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing_1);
             this.ResumeLayout(false);
             this.PerformLayout();
 
