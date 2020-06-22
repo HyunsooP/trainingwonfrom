@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\AniApp\bin\Debug\AniApp.exe.config
+C:\SRC\trainingwonfrom\AniApp\bin\Debug\AniApp.exe
+C:\SRC\trainingwonfrom\AniApp\bin\Debug\AniApp.pdb
+C:\SRC\trainingwonfrom\AniApp\obj\Debug\AniApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\AniApp\obj\Debug\AniApp.Form1.resources
+C:\SRC\trainingwonfrom\AniApp\obj\Debug\AniApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\AniApp\obj\Debug\AniApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\AniApp\obj\Debug\AniApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\AniApp\obj\Debug\AniApp.exe
+C:\SRC\trainingwonfrom\AniApp\obj\Debug\AniApp.pdb

@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\GracpicApp\bin\Debug\GracpicApp.exe.config
+C:\SRC\trainingwonfrom\GracpicApp\bin\Debug\GracpicApp.exe
+C:\SRC\trainingwonfrom\GracpicApp\bin\Debug\GracpicApp.pdb
+C:\SRC\trainingwonfrom\GracpicApp\obj\Debug\GracpicApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\GracpicApp\obj\Debug\GracpicApp.Form1.resources
+C:\SRC\trainingwonfrom\GracpicApp\obj\Debug\GracpicApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\GracpicApp\obj\Debug\GracpicApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\GracpicApp\obj\Debug\GracpicApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\GracpicApp\obj\Debug\GracpicApp.exe
+C:\SRC\trainingwonfrom\GracpicApp\obj\Debug\GracpicApp.pdb

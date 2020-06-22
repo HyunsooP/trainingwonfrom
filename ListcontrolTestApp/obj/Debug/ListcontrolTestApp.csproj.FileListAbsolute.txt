@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\ListcontrolTestApp\bin\Debug\ListcontrolTestApp.exe.config
+C:\SRC\trainingwonfrom\ListcontrolTestApp\bin\Debug\ListcontrolTestApp.exe
+C:\SRC\trainingwonfrom\ListcontrolTestApp\bin\Debug\ListcontrolTestApp.pdb
+C:\SRC\trainingwonfrom\ListcontrolTestApp\obj\Debug\ListcontrolTestApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\ListcontrolTestApp\obj\Debug\ListcontrolTestApp.Form1.resources
+C:\SRC\trainingwonfrom\ListcontrolTestApp\obj\Debug\ListcontrolTestApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\ListcontrolTestApp\obj\Debug\ListcontrolTestApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\ListcontrolTestApp\obj\Debug\ListcontrolTestApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\ListcontrolTestApp\obj\Debug\ListcontrolTestApp.exe
+C:\SRC\trainingwonfrom\ListcontrolTestApp\obj\Debug\ListcontrolTestApp.pdb

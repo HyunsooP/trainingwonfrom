@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\viewControlApp\bin\Debug\viewControlApp.exe.config
+C:\SRC\trainingwonfrom\viewControlApp\bin\Debug\viewControlApp.exe
+C:\SRC\trainingwonfrom\viewControlApp\bin\Debug\viewControlApp.pdb
+C:\SRC\trainingwonfrom\viewControlApp\obj\Debug\viewControlApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\viewControlApp\obj\Debug\viewControlApp.Form1.resources
+C:\SRC\trainingwonfrom\viewControlApp\obj\Debug\viewControlApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\viewControlApp\obj\Debug\viewControlApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\viewControlApp\obj\Debug\viewControlApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\viewControlApp\obj\Debug\viewControlApp.exe
+C:\SRC\trainingwonfrom\viewControlApp\obj\Debug\viewControlApp.pdb

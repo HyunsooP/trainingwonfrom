@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\PromgressApp\bin\Debug\PromgressApp.exe.config
+C:\SRC\trainingwonfrom\PromgressApp\bin\Debug\PromgressApp.exe
+C:\SRC\trainingwonfrom\PromgressApp\bin\Debug\PromgressApp.pdb
+C:\SRC\trainingwonfrom\PromgressApp\obj\Debug\PromgressApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\PromgressApp\obj\Debug\PromgressApp.Form1.resources
+C:\SRC\trainingwonfrom\PromgressApp\obj\Debug\PromgressApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\PromgressApp\obj\Debug\PromgressApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\PromgressApp\obj\Debug\PromgressApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\PromgressApp\obj\Debug\PromgressApp.exe
+C:\SRC\trainingwonfrom\PromgressApp\obj\Debug\PromgressApp.pdb

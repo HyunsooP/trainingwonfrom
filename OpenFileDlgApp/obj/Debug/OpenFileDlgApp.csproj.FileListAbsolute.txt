@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\OpenFileDlgApp\bin\Debug\OpenFileDlgApp.exe.config
+C:\SRC\trainingwonfrom\OpenFileDlgApp\bin\Debug\OpenFileDlgApp.exe
+C:\SRC\trainingwonfrom\OpenFileDlgApp\bin\Debug\OpenFileDlgApp.pdb
+C:\SRC\trainingwonfrom\OpenFileDlgApp\obj\Debug\OpenFileDlgApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\OpenFileDlgApp\obj\Debug\OpenFileDlgApp.Form1.resources
+C:\SRC\trainingwonfrom\OpenFileDlgApp\obj\Debug\OpenFileDlgApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\OpenFileDlgApp\obj\Debug\OpenFileDlgApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\OpenFileDlgApp\obj\Debug\OpenFileDlgApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\OpenFileDlgApp\obj\Debug\OpenFileDlgApp.exe
+C:\SRC\trainingwonfrom\OpenFileDlgApp\obj\Debug\OpenFileDlgApp.pdb

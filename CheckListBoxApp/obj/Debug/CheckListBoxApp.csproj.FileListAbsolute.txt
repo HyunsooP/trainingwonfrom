@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\CheckListBoxApp\bin\Debug\CheckListBoxApp.exe.config
+C:\SRC\trainingwonfrom\CheckListBoxApp\bin\Debug\CheckListBoxApp.exe
+C:\SRC\trainingwonfrom\CheckListBoxApp\bin\Debug\CheckListBoxApp.pdb
+C:\SRC\trainingwonfrom\CheckListBoxApp\obj\Debug\CheckListBoxApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\CheckListBoxApp\obj\Debug\CheckListBoxApp.Form1.resources
+C:\SRC\trainingwonfrom\CheckListBoxApp\obj\Debug\CheckListBoxApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\CheckListBoxApp\obj\Debug\CheckListBoxApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\CheckListBoxApp\obj\Debug\CheckListBoxApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\CheckListBoxApp\obj\Debug\CheckListBoxApp.exe
+C:\SRC\trainingwonfrom\CheckListBoxApp\obj\Debug\CheckListBoxApp.pdb

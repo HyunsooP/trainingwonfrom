@@ -1,0 +1,15 @@
+C:\SRC\trainingwonfrom\BookRentalShop\bin\Debug\BookRentalShop.exe.config
+C:\SRC\trainingwonfrom\BookRentalShop\bin\Debug\BookRentalShop.exe
+C:\SRC\trainingwonfrom\BookRentalShop\bin\Debug\BookRentalShop.pdb
+C:\SRC\trainingwonfrom\BookRentalShop\bin\Debug\MetroFramework.Design.dll
+C:\SRC\trainingwonfrom\BookRentalShop\bin\Debug\MetroFramework.dll
+C:\SRC\trainingwonfrom\BookRentalShop\bin\Debug\MetroFramework.Fonts.dll
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.MainForm.resources
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.Properties.Resources.resources
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.csproj.CopyComplete
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.exe
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.pdb
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.LoginForm.resources

@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\TreeViewApp\bin\Debug\TreeViewApp.exe.config
+C:\SRC\trainingwonfrom\TreeViewApp\bin\Debug\TreeViewApp.exe
+C:\SRC\trainingwonfrom\TreeViewApp\bin\Debug\TreeViewApp.pdb
+C:\SRC\trainingwonfrom\TreeViewApp\obj\Debug\TreeViewApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\TreeViewApp\obj\Debug\TreeViewApp.Form1.resources
+C:\SRC\trainingwonfrom\TreeViewApp\obj\Debug\TreeViewApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\TreeViewApp\obj\Debug\TreeViewApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\TreeViewApp\obj\Debug\TreeViewApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\TreeViewApp\obj\Debug\TreeViewApp.exe
+C:\SRC\trainingwonfrom\TreeViewApp\obj\Debug\TreeViewApp.pdb

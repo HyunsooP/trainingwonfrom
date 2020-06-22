@@ -1,0 +1,11 @@
+C:\SRC\trainingwonfrom\MainMenuApp\bin\Debug\MainMenuApp.exe.config
+C:\SRC\trainingwonfrom\MainMenuApp\bin\Debug\MainMenuApp.exe
+C:\SRC\trainingwonfrom\MainMenuApp\bin\Debug\MainMenuApp.pdb
+C:\SRC\trainingwonfrom\MainMenuApp\obj\Debug\MainMenuApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\MainMenuApp\obj\Debug\MainMenuApp.AboutBox.resources
+C:\SRC\trainingwonfrom\MainMenuApp\obj\Debug\MainMenuApp.Form1.resources
+C:\SRC\trainingwonfrom\MainMenuApp\obj\Debug\MainMenuApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\MainMenuApp\obj\Debug\MainMenuApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\MainMenuApp\obj\Debug\MainMenuApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\MainMenuApp\obj\Debug\MainMenuApp.exe
+C:\SRC\trainingwonfrom\MainMenuApp\obj\Debug\MainMenuApp.pdb

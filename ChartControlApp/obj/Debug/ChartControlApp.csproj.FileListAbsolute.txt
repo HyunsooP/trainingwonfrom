@@ -1,0 +1,10 @@
+C:\SRC\trainingwonfrom\ChartControlApp\bin\Debug\ChartControlApp.exe.config
+C:\SRC\trainingwonfrom\ChartControlApp\bin\Debug\ChartControlApp.exe
+C:\SRC\trainingwonfrom\ChartControlApp\bin\Debug\ChartControlApp.pdb
+C:\SRC\trainingwonfrom\ChartControlApp\obj\Debug\ChartControlApp.csprojAssemblyReference.cache
+C:\SRC\trainingwonfrom\ChartControlApp\obj\Debug\ChartControlApp.Form1.resources
+C:\SRC\trainingwonfrom\ChartControlApp\obj\Debug\ChartControlApp.Properties.Resources.resources
+C:\SRC\trainingwonfrom\ChartControlApp\obj\Debug\ChartControlApp.csproj.GenerateResource.cache
+C:\SRC\trainingwonfrom\ChartControlApp\obj\Debug\ChartControlApp.csproj.CoreCompileInputs.cache
+C:\SRC\trainingwonfrom\ChartControlApp\obj\Debug\ChartControlApp.exe
+C:\SRC\trainingwonfrom\ChartControlApp\obj\Debug\ChartControlApp.pdb
