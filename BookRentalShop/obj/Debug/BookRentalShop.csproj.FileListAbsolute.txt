@@ -13,3 +13,5 @@ C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.csproj.CopyComple
 C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.exe
 C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.pdb
 C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.LoginForm.resources
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.DivForm.resources
+C:\SRC\trainingwonfrom\BookRentalShop\obj\Debug\BookRentalShop.RentalTbl.resources
